@@ -9,6 +9,7 @@ DEVICES=(
     cheeseburger
     dumpling
     htc_ocmdtwl
+    panther
 	nx563j
 )
 #####################################
